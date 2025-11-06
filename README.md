@@ -1,4 +1,4 @@
 # to-do-list
-<h1>frist git repo</h1>
+<h2>frist git repo</h2>
 <br>
-author-viraj
+<h3>author-viraj</h3>
